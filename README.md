@@ -85,5 +85,6 @@ Public approval is based on available Vogue “Yes” vote percentages and does 
 - `visuals/` — exported presentation screenshots and chart visuals
 
 ## Final Takeaway
+![Met Gala 2026 Fashion Analysis Cover](visuals/cover.png)
 
 Fashion data reveals not only what people wore, but how audiences responded to art, identity, and spectacle.
